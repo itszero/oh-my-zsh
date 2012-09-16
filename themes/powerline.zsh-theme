@@ -1,0 +1,1 @@
+../../dotaux/oh-my-zsh-powerline-theme/powerline.zsh-theme
